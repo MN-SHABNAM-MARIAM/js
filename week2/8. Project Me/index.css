@@ -20,18 +20,20 @@ body {
 
 #push-btn,#unshift-btn {
     background-color:red;
+    color:black
     
 }
 
 #shift-btn,#pop-btn {
     background-color: greenyellow;
+    color:black;
 }
 
 h1 {
-   
+    font-size: 40px;
     letter-spacing: 3px;
     text-align: center;
-    color:yellow;
+    color:purple;
 }
 
 input {
